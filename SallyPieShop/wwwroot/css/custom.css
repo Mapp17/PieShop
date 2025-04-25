@@ -1,0 +1,21 @@
+﻿body {
+    background-image: url('/images/pattern.png');
+    background-repeat: repeat;
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.pieCard {
+    border: 1px solid #e6e4d9;
+    background-color: #f8f4f1;
+    margin: 0.25rem;
+}
+
+.pieCard img {
+    margin: 0;
+    padding: 0;
+    width: 100%
+}

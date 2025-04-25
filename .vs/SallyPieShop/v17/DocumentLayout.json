@@ -1,0 +1,332 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|c:\\users\\user\\desktop\\drive\\practiceapplications\\projects\\sallypieshop\\sallypieshop\\data\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|solutionrelative:sallypieshop\\data\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|c:\\users\\user\\desktop\\drive\\practiceapplications\\projects\\sallypieshop\\sallypieshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|solutionrelative:sallypieshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|c:\\users\\user\\desktop\\drive\\practiceapplications\\projects\\sallypieshop\\sallypieshop\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|solutionrelative:sallypieshop\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|c:\\users\\user\\desktop\\drive\\practiceapplications\\projects\\sallypieshop\\sallypieshop\\views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|solutionrelative:sallypieshop\\views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|c:\\users\\user\\desktop\\drive\\practiceapplications\\projects\\sallypieshop\\sallypieshop\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|solutionrelative:sallypieshop\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|c:\\users\\user\\desktop\\drive\\practiceapplications\\projects\\sallypieshop\\sallypieshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|solutionrelative:sallypieshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|c:\\users\\user\\desktop\\drive\\practiceapplications\\projects\\sallypieshop\\sallypieshop\\data\\pierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|solutionrelative:sallypieshop\\data\\pierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|c:\\users\\user\\desktop\\drive\\practiceapplications\\projects\\sallypieshop\\sallypieshop\\data\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|solutionrelative:sallypieshop\\data\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|c:\\users\\user\\desktop\\drive\\practiceapplications\\projects\\sallypieshop\\sallypieshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|solutionrelative:sallypieshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|c:\\users\\user\\desktop\\drive\\practiceapplications\\projects\\sallypieshop\\sallypieshop\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|solutionrelative:sallypieshop\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|c:\\users\\user\\desktop\\drive\\practiceapplications\\projects\\sallypieshop\\sallypieshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|solutionrelative:sallypieshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|c:\\users\\user\\desktop\\drive\\practiceapplications\\projects\\sallypieshop\\sallypieshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|solutionrelative:sallypieshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|c:\\users\\user\\desktop\\drive\\practiceapplications\\projects\\sallypieshop\\sallypieshop\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|solutionrelative:sallypieshop\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|c:\\users\\user\\desktop\\drive\\practiceapplications\\projects\\sallypieshop\\sallypieshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|solutionrelative:sallypieshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|c:\\users\\user\\desktop\\drive\\practiceapplications\\projects\\sallypieshop\\sallypieshop\\migrations\\20240304134953_feedbackadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|solutionrelative:sallypieshop\\migrations\\20240304134953_feedbackadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|c:\\users\\user\\desktop\\drive\\practiceapplications\\projects\\sallypieshop\\sallypieshop\\migrations\\20240229072850_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|solutionrelative:sallypieshop\\migrations\\20240229072850_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|c:\\users\\user\\desktop\\drive\\practiceapplications\\projects\\sallypieshop\\sallypieshop\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F38A6F61-19CA-4707-BD75-32EDD13A347F}|SallyPieShop\\SallyPieShop.csproj|solutionrelative:sallypieshop\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 349,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Views\\Feedback\\Index.cshtml",
+              "RelativeDocumentMoniker": "SallyPieShop\\Views\\Feedback\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Views\\Feedback\\Index.cshtml",
+              "RelativeToolTip": "SallyPieShop\\Views\\Feedback\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T01:24:29.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SallyPieShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SallyPieShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T01:24:30.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "SallyPieShop\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "SallyPieShop\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T01:24:30.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Data\\FeedbackRepository.cs",
+              "RelativeDocumentMoniker": "SallyPieShop\\Data\\FeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Data\\FeedbackRepository.cs",
+              "RelativeToolTip": "SallyPieShop\\Data\\FeedbackRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:24:30.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Data\\PieRepository.cs",
+              "RelativeDocumentMoniker": "SallyPieShop\\Data\\PieRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Data\\PieRepository.cs",
+              "RelativeToolTip": "SallyPieShop\\Data\\PieRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:24:30.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SallyPieShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SallyPieShop\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:24:30.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "SallyPieShop\\Controllers\\FeedbackController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "SallyPieShop\\Controllers\\FeedbackController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:24:30.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Data\\IFeedbackRepository.cs",
+              "RelativeDocumentMoniker": "SallyPieShop\\Data\\IFeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Data\\IFeedbackRepository.cs",
+              "RelativeToolTip": "SallyPieShop\\Data\\IFeedbackRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:24:30.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SallyPieShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SallyPieShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T01:24:30.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\appsettings.json",
+              "RelativeDocumentMoniker": "SallyPieShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\appsettings.json",
+              "RelativeToolTip": "SallyPieShop\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T01:24:30.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SallyPieShop\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SallyPieShop\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:24:30.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Program.cs",
+              "RelativeDocumentMoniker": "SallyPieShop\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Program.cs",
+              "RelativeToolTip": "SallyPieShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:24:30.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "SallyPieShop\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Models\\Feedback.cs",
+              "RelativeToolTip": "SallyPieShop\\Models\\Feedback.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:24:30.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SallyPieShop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SallyPieShop\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T01:24:30.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240304134953_FeedbackAdded.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Migrations\\20240304134953_FeedbackAdded.cs",
+              "RelativeDocumentMoniker": "SallyPieShop\\Migrations\\20240304134953_FeedbackAdded.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Migrations\\20240304134953_FeedbackAdded.cs",
+              "RelativeToolTip": "SallyPieShop\\Migrations\\20240304134953_FeedbackAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:24:30.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240229072850_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Migrations\\20240229072850_Initial.cs",
+              "RelativeDocumentMoniker": "SallyPieShop\\Migrations\\20240229072850_Initial.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\Migrations\\20240229072850_Initial.cs",
+              "RelativeToolTip": "SallyPieShop\\Migrations\\20240229072850_Initial.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwDYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:24:30.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\libman.json",
+              "RelativeDocumentMoniker": "SallyPieShop\\libman.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\drive\\PracticeApplications\\Projects\\SallyPieShop\\SallyPieShop\\libman.json",
+              "RelativeToolTip": "SallyPieShop\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T01:24:30.066Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 30,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

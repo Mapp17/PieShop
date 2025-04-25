@@ -1,0 +1,6 @@
+# ignore all the migrations files
+20240229072850_Initial.cs 
+20240229072850_Initial.Designer.cs 
+20240304134953_FeedbackAdded.cs 
+20240304134953_FeedbackAdded.Designer.cs 
+AppDbContextModelSnapshot.cs
